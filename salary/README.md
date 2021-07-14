@@ -44,6 +44,3 @@ salary:
 make build
 ```
 
-```shell
-make image
-```
