@@ -1,0 +1,12 @@
+employee/employee
+frontend/frontend
+frontend/node_modules
+frontend/package-lock.json
+attendance/attendance
+salary/salary
+gateway/target
+frontend/build
+frontend/.env
+notification/notification
+notification/test_config.yaml
+salaryv2/target
